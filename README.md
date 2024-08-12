@@ -12,3 +12,6 @@ Ukrainian, and all Caucasian languages using
 An ISO 9 transliteration of all Russian words distributed with [GNU
 Aspell](http://aspell.net/) is available in HTML (8.9M) and plain text
 (5.3M).
+
+Ukrainian transliteration is done manually, following the standard of scientific transliteration of Cyrillic (https://en.wikipedia.org/wiki/Scientific_transliteration_of_Cyrillic)
+Ukrainian transcriptions can be transliterated here https://translit.kh.ua/?lat&ling by choosing науковий (традиційний) in the drop-down menu.
